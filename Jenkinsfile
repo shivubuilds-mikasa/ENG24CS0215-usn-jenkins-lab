@@ -8,7 +8,7 @@ pipeline {
         pollSCM('H/2 * * * *')
     }
     environment {
-        APP_NAME = 'ENG24CS0215-calculator'
+        APP_NAME = 'eng24cs0215-calculator'
     }
     stages {
         stage('Build') {
