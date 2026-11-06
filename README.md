@@ -3,3 +3,5 @@
 Student: Shivabasav Murgod
 
 Calculator and pytest files for the Jenkins GitHub integration exercise.
+
+Name: Shivabasav Murgod
